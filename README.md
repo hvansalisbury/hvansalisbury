@@ -1,4 +1,4 @@
-# Hi I’m Howard Van Salisbury, nice to meet you
+# Hi I’m Howard, nice to meet you
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hvansalisbury.github.io/Howards-Portfolio/)
 
