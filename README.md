@@ -9,6 +9,7 @@
 - I am a certified tax assessor and I also have a certificate in secondary education.
 - I am continuing to develop more skills as a coder and I'm always working on personal projects.
 - I am open to collaborate with other coders on projects as well.
+<br /><br />
 
 # Languages and Tools:
 <img align="left" height="32" width="32" src="https://ico.now.sh/html5/aaa" alt="html5" title="html"/> 
@@ -39,14 +40,14 @@
 <img align="left" height="32" width="32" src="https://ico.vercel.app/redux/aaa" alt="redux" title="redux"/>
 <img align="left" height="32" width="32" src="https://ico.vercel.app/sequelize/aaa" alt="sequelize" title="sequelize"/>
 <img align="left" height="32" width="32" src="https://ico.vercel.app/visualstudiocode/aaa" alt="VS-Code" title="VS-Code"/>
-<br /><br />
+<br /><br /><br /><br />
 
 # Project Demos
 <a href='https://drive.google.com/file/d/1x_Um5kY1181Q1rYucAm90qBgKHvwLbXS/view?usp=share_link'><img align="left" width="250" src="./src/images/Family-Recipe-Box.png" alt="Family-Recipe-Box" title="Family-Recipe-Box"/></a>
 <a href='https://drive.google.com/file/d/1mQjjwYvY_xEP5N4BPem1uwxFitqcZnpg/view'><img align="left" width="250" src="./src/images/Quiz-Cr8r.png" alt="Quiz-Cr8r" title="Quiz-Cr8r"/></a>
 <a href='https://drive.google.com/file/d/1wFUWdpO1QgiBTFDRWWsLgY6Y50wqNVAU/view?usp=sharing'><img align="left" width="250" src="./src/images/Word-Search.png" alt="Word-Search" title="Word-Search"/></a>
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 
 # Connect with me:
 [<img align="left" alt="website" src="https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white" />][Portfolio]
