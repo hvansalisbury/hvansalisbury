@@ -1,4 +1,4 @@
-# Hi I’m Howard, nice to meet you
+# Hi, I’m Howard, nice to meet you
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hvansalisbury.github.io/Howards-Portfolio/)
 
@@ -42,8 +42,8 @@
 <br /><br />
 
 # Project Demos
-<a href='https://drive.google.com/file/d/1x_Um5kY1181Q1rYucAm90qBgKHvwLbXS/view?usp=share_link'><img align="left" width="250" src="./src/images/family-recipe-box.png"/></a>
-<a href='https://'><img align="left" width="250" src="./src/images/"/></a>
+<a href='https://drive.google.com/file/d/1x_Um5kY1181Q1rYucAm90qBgKHvwLbXS/view?usp=share_link'><img align="left" width="250" src="./src/images/Family-Recipe-Box.png"/></a>
+<a href='https://drive.google.com/file/d/1mQjjwYvY_xEP5N4BPem1uwxFitqcZnpg/view'><img align="left" width="250" src="./src/images/Quiz-Cr8r.png"/></a>
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 # Connect with me:
