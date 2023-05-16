@@ -18,6 +18,7 @@
 <img align="left" height="32" width="32" src="https://ico.now.sh/react/aaa" alt="react" title="react"/> 
 <img align="left" height="32" width="32" src="https://ico.now.sh/graphql/aaa" alt="graphql" title="graphql"/>
 <img align="left" height="32" width="32" src="https://ico.vercel.app/dotenv/aaa" alt="dotenv" title="dotenv"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/mongodb/aaa" alt="mongodb" title="mongodb"/>
 <img align="left" height="32" width="32" src="https://ico.vercel.app/bootstrap/aaa" alt="bootstrap" title="bootstrap"/>
 <img align="left" height="32" width="32" src="https://ico.vercel.app/bulma/aaa" alt="bulma" title="bulma"/>
 <img align="left" height="32" width="32" src="https://ico.vercel.app/express/aaa" alt="express.js" title="express.js"/>
