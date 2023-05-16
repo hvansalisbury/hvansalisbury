@@ -11,38 +11,38 @@
 - I am open to collaborate with other coders on projects as well.
 
 # Languages and Tools:
-<img align="left" height="32" width="32" src="https://ico.now.sh/html5/aaa"/> 
-<img align="left" height="32" width="32" src="https://ico.now.sh/css3/aaa"/> 
-<img align="left" height="32" width="32" src="https://ico.now.sh/javascript/aaa"/> 
-<img align="left" height="32" width="32" src="https://ico.now.sh/react/aaa"/> 
-<img align="left" height="32" width="32" src="https://ico.now.sh/graphql/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/dotenv/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/bootstrap/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/bulma/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/express/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/git/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/github/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/handlebarsdotjs/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/heroku/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/insomnia/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/jest/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/axios/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/jquery/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/json/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/jasonwebtokens/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/markdown/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/mysql/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/nodedotjs/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/nodemon/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/npm/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/pwa/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/redux/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/sequelize/aaa"/>
-<img align="left" height="32" width="32" src="https://ico.vercel.app/visualstudiocode/aaa"/>
+<img align="left" height="32" width="32" src="https://ico.now.sh/html5/aaa" alt="html5" title="html"/> 
+<img align="left" height="32" width="32" src="https://ico.now.sh/css3/aaa" alt="css3" title="css"/> 
+<img align="left" height="32" width="32" src="https://ico.now.sh/javascript/aaa" alt="javascript" title="javascript"/> 
+<img align="left" height="32" width="32" src="https://ico.now.sh/react/aaa" alt="react" title="react"/> 
+<img align="left" height="32" width="32" src="https://ico.now.sh/graphql/aaa" alt="graphql" title="graphql"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/dotenv/aaa" alt="dotenv" title="dotenv"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/bootstrap/aaa" alt="bootstrap" title="bootstrap"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/bulma/aaa" alt="bulma" title="bulma"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/express/aaa" alt="express.js" title="express.js"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/git/aaa" alt="git" title="git"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/github/aaa" alt="github" title="github"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/handlebarsdotjs/aaa" alt="handlebars.js" title="handlebars.js"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/heroku/aaa" alt="heroku" title="heroku"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/insomnia/aaa" alt="insomnia" title="insomnia"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/jest/aaa" alt="jest" title="jest"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/axios/aaa" alt="axios" title="axios"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/jquery/aaa" alt="jquery" title="jquery"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/json/aaa" alt="JSON" title="JSON"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/jsonwebtokens/aaa" alt="JWT" title="JWT"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/markdown/aaa" alt="markdown" title="markdonw"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/mysql/aaa" alt="MySQL" title="MySQL"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/nodedotjs/aaa" alt="node.js" title="node.js"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/nodemon/aaa" alt="nodemon" title="nodemon"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/npm/aaa" alt="NPM" title="NPM"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/pwa/aaa" alt="progressive-web-app" title="progressive-web-app"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/redux/aaa" alt="redux" title="redux"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/sequelize/aaa" alt="sequelize" title="sequelize"/>
+<img align="left" height="32" width="32" src="https://ico.vercel.app/visualstudiocode/aaa" alt="VS-Code" title="VS-Code"/>
 <br /><br />
 
 # Project Demos
-<a href='https://'><img align="left" width="250" src="https://drive.google.com/file/d/1JOQO933H7lkDrEtYbAdEAmZGCEF8l_yM/preview"/></a>
+<a href='https://drive.google.com/file/d/1x_Um5kY1181Q1rYucAm90qBgKHvwLbXS/view?usp=share_link'><img align="left" width="250" src="./src/images/family-recipe-box.png"/></a>
 <a href='https://'><img align="left" width="250" src="./src/images/"/></a>
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 
